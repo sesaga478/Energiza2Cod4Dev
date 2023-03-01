@@ -5,10 +5,15 @@
 ***
 <div id='insignias' />
 
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
+
+<a target="_blank" href="https://colab.research.google.com/github/EL-BID/Energiza2Cod4Dev/blob/master/notebooks/ejecucion_paso_paso.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 Este proyecto presenta un marco de detección de robo eléctrico basado en el aprendizaje automático supervisado utilizando una biblioteca de extracción de variables de series temporales junto con algoritmos de boosting y redes neuronales.
 
+Ver [Notebook Paso a Paso](https://github.com/EL-BID/Energiza2Cod4Dev/blob/master/notebooks/ejecucion_paso_paso.ipynb)
 
 ***
 <div id='índice' />
@@ -198,12 +203,15 @@ Luego pare ver el codigo del marco de desarrollo funcionando compartimos una not
 - Python 3.6 o superior
 - TensorFlow 2.2
 - LGBM 3.3.3
+- TSFEL
 
 ***
 
 <div id='licencia' />
 
 ## Licencia 
+
+El siguiente proyecto ha sido financiada por el BID [LICENCIA](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/LICENSE.md)
 
 
 ***
