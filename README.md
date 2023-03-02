@@ -191,7 +191,7 @@ Descripción de las columnas:
 
 Luego pare ver el codigo del marco de desarrollo funcionando compartimos una notebook donde se puede ir ejecutando paso a paso el proceso. 
 
-- __notebook/ejecucion_paso_paso.ipynb__
+Ver [Notebook Paso a Paso](https://github.com/EL-BID/Energiza2Cod4Dev/blob/master/notebooks/ejecucion_paso_paso.ipynb)
 
 
 ***
@@ -211,7 +211,7 @@ Luego pare ver el codigo del marco de desarrollo funcionando compartimos una not
 
 ## Licencia 
 
-El siguiente proyecto ha sido financiada por el BID [LICENCIA](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/LICENSE.md)
+El siguiente proyecto ha sido financiada por el BID. Ver la siguiente licencia [LICENCIA](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/LICENSE.md)
 
 
 ***
