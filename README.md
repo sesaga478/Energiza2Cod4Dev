@@ -201,8 +201,8 @@ Ver [Notebook Paso a Paso](https://github.com/EL-BID/Energiza2Cod4Dev/blob/maste
 ## Tecnologías utilizadas 
 
 - Python 3.6 o superior
-- TensorFlow 2.2
-- LGBM 3.3.3
+- TensorFlow 
+- LGBM 
 - TSFEL
 
 ***
